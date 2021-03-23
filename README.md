@@ -21,6 +21,7 @@ I'm always open to new ideas and opportunities
 - 📫 Reach me [@rutulshah17](https://twitter.com/rutulshah17);
 - 📝 [Resume](https://drive.google.com/file/d/1FDV1JXj1VrghaUIH84f52n9zTwzOrz2k/view?usp=sharing) 
 
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,6 +33,7 @@ I'm always open to new ideas and opportunities
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
 📊 **This Week I Spent My Time On:**
 ```text
 
@@ -41,7 +43,8 @@ NodeJs     2 hrs 1 min    ███████▒░░░░░░░░░░
 JSON       21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░ 10 %
 ```
 
-### A little more about me...  
+
+**A little more about me...**
 ```javascript
 const rutul = {
     pronouns: "He" | "Him",
@@ -62,4 +65,5 @@ const rutul = {
 ```
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rutulshah17&show_icons=true&theme=gotham" alt="rutulshah17" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=rutulshah17&show_icons=true&theme=nord" alt="rutulshah17" />
