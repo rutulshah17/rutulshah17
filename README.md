@@ -10,9 +10,11 @@
 
 <br />
 
-Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate Full Stack web developer holding a Bachelors Degree in Computer Science.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. 
+Anything and everything that can be classified as technology💻 fascinates me. 
+I'm always open to new ideas and opportunities
 
 <img align="right" alt="GIF" src="https://github.com/rutulshah17/rutulshah17/blob/main/coding.gif?raw=true" width="460" height="320" />
   
@@ -34,9 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```text
 JavaScript 2 hrs 36 mins  █████████▓░░░░░░░░░░░░░░░ 38.22 %
 NodeJs     2 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░ 29.75 %
-SCSS       48 mins        ███░░░░░░░░░░░░░░░░░░░░░░ 11.75 %
-C++        37 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░ 09.11 %
-JSON       21 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.36 %
+JSON       21 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░ 10.36 %
 ```
 <!--END_SECTION:waka-->
 
