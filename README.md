@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate Full Stack web developer holding Bachelors Degree in Computer Science.
+Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate Full Stack web developer holding a Bachelors Degree in Computer Science.
 
 I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. 
 Anything and everything that can be classified as technology💻 fascinates me. 
@@ -34,13 +34,32 @@ I'm always open to new ideas and opportunities
 
 📊 **This Week I Spent My Time On:**
 ```text
+
+
 JavaScript 2 hrs 36 mins  █████████▓░░░░░░░░░░░░░░░ 38.22 %
 NodeJs     2 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░ 29.75 %
 JSON       21 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░ 10.36 %
 ```
-<!--END_SECTION:waka-->
 
+### A little more about me...  
+```javascript
+const rutul = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Q"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["Docker🐳", "Jenkins", "UrbanCode Deploy"],
+        databases: ["mongoDB", "ELK Stack", "MySql"],
+        misc: ["Firebase", "Apollo", "GraphQL", "Stripe", "JCL", "COBOL"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rutulshah17&show_icons=true&theme=gotham" alt="rutulshah17" />
