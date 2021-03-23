@@ -64,6 +64,6 @@ const rutul = {
 };
 ```
 
-📈 My GitHub Stats
+**📈 My GitHub Stats**
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=rutulshah17&show_icons=true&theme=nord" alt="rutulshah17" />
