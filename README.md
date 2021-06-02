@@ -56,7 +56,7 @@ const rutul = {
         backEnd: {
             js: ["node", "express"],
         },
-        devOps: ["Docker🐳", "Jenkins", "UrbanCode Deploy"],
+        devOps: ["Docker🐳", "Jenkins", "UrbanCode Deploy", "Helios"],
         databases: ["mongoDB", "ELK Stack", "MySql"],
         misc: ["Firebase", "Apollo", "GraphQL", "Stripe", "JCL", "COBOL"]
     },
