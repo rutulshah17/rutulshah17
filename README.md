@@ -1,14 +1,4 @@
 ### Hi there 👋
-<a href="https://twitter.com/rutulshah17">
-  <img align="left" alt="Rutul Shah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rutulshah17/">
-  <img align="left" alt="Rutul Shah | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=rutulshah17)
-
-<br />
 
 Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate Full Stack web developer holding a Bachelors Degree in Computer Science.
 
