@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm [Rutul Shah](https://rutulshah.herokuapp.com), a passionate Full Stack web developer holding a Bachelors Degree in Computer Science.
+Hi, I'm [Rutul Shah](https://rutulshah17.github.io/portfolio), a passionate Full Stack web developer holding a Bachelors Degree in Computer Science.
 
 I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. 
 Anything and everything that can be classified as technology💻 fascinates me. 
